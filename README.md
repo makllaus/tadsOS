@@ -16,6 +16,10 @@ This version is a beta, created from Ubuntu Builder, but the goal is that anyone
 ## Linux From Scratch *
 http://www.linuxfromscratch.org
 
+livro traduzido versão  7.5 pt-br
+
+https://sourceforge.net/projects/lfsptbr/files/7.5_pt_BR_alpha/
+
 ## Linux Respin
 http://www.linuxrespin.org
 
