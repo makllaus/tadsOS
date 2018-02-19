@@ -1,5 +1,5 @@
 # tadsOS
-Linux distribution aimed at students and / or professionals in the area of systems analysis and development. Containing as main tools of development and analysis.
+Linux distribution aimed at students and / or professionals in the area of systems analysis and development. Containing the main tools of development and analysis.
 
 # Introduction
 This version is a beta, created from Ubuntu Builder, but the goal is that anyone interested can help improve the distro so that it becomes increasingly efficient in its purpose. I will leave some links whose content destines the production of linux's distros, in several ways. Thanks in advance to all who have come and / or already contributed to the project.
